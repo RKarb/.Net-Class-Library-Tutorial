@@ -1,0 +1,12 @@
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\bin\Debug\net5.0\StringLibrary.deps.json
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\bin\Debug\net5.0\StringLibrary.dll
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\bin\Debug\net5.0\ref\StringLibrary.dll
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\bin\Debug\net5.0\StringLibrary.pdb
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.csproj.AssemblyReference.cache
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.AssemblyInfo.cs
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.dll
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\ref\StringLibrary.dll
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.pdb
