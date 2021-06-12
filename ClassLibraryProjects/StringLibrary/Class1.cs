@@ -11,7 +11,6 @@ namespace UtilityLibraries
 
             char ch = str[0];
             return char.IsUpper(ch);
-            
         }
     }
 }

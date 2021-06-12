@@ -1,0 +1,4 @@
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\ShowCase\obj\Release\net5.0\ShowCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\ShowCase\obj\Release\net5.0\ShowCase.AssemblyInfoInputs.cache
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\ShowCase\obj\Release\net5.0\ShowCase.AssemblyInfo.cs
+C:\Users\Spidey1238\Desktop\Work-Uni\Github\.Net Class Library\.Net-Class-Library-Tutorial\ClassLibraryProjects\ShowCase\obj\Release\net5.0\ShowCase.csproj.CoreCompileInputs.cache
